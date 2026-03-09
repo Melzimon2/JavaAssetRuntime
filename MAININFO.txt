@@ -1,0 +1,8 @@
+--TEXT INFO
+This Launcher is used for developing commands and java applications for adnroid purposes hence its assets.
+
+VER: 1.01
+JDK
+JRE
+JVM
+**JAVA, ANDROID
